@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
+#include <sys/_types/_u_char.h>
 
 #define MIN(x,y) (((x)<(y)) ? (x) : (y))
 
